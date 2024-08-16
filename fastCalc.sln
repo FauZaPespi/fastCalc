@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fastCalc_Client", "fastCalc\fastCalc_Client.csproj", "{B35AA4D8-BA3C-44A0-B357-3C13D7804868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fastCalc_Server", "fastCalc_Server\fastCalc_Server.csproj", "{2F9BE2DF-605D-426C-840B-016460262A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B35AA4D8-BA3C-44A0-B357-3C13D7804868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35AA4D8-BA3C-44A0-B357-3C13D7804868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35AA4D8-BA3C-44A0-B357-3C13D7804868}.Debug|x86.ActiveCfg = Debug|x86
+		{B35AA4D8-BA3C-44A0-B357-3C13D7804868}.Debug|x86.Build.0 = Debug|x86
+		{B35AA4D8-BA3C-44A0-B357-3C13D7804868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35AA4D8-BA3C-44A0-B357-3C13D7804868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B35AA4D8-BA3C-44A0-B357-3C13D7804868}.Release|x86.ActiveCfg = Release|x86
+		{B35AA4D8-BA3C-44A0-B357-3C13D7804868}.Release|x86.Build.0 = Release|x86
+		{2F9BE2DF-605D-426C-840B-016460262A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9BE2DF-605D-426C-840B-016460262A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9BE2DF-605D-426C-840B-016460262A51}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2F9BE2DF-605D-426C-840B-016460262A51}.Debug|x86.Build.0 = Debug|Any CPU
+		{2F9BE2DF-605D-426C-840B-016460262A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9BE2DF-605D-426C-840B-016460262A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9BE2DF-605D-426C-840B-016460262A51}.Release|x86.ActiveCfg = Release|x86
+		{2F9BE2DF-605D-426C-840B-016460262A51}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E799DAA-567D-47CE-9A34-A9325B83FADB}
+	EndGlobalSection
+EndGlobal

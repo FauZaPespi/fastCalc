@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fauza\\source\\repos\\fastCalc\\fastCalc_Server\\fastCalc_Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fauza\\source\\repos\\fastCalc\\fastCalc_Server\\fastCalc_Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fauza\\source\\repos\\fastCalc\\fastCalc_Server\\fastCalc_Server.csproj",
+        "projectName": "fastCalc_Server",
+        "projectPath": "C:\\Users\\fauza\\source\\repos\\fastCalc\\fastCalc_Server\\fastCalc_Server.csproj",
+        "packagesPath": "C:\\Users\\fauza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fauza\\source\\repos\\fastCalc\\fastCalc_Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fauza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Costura.Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.8.0-alpha0098, )"
+            },
+            "Microsoft.DotNet.ILCompiler": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
+              "version": "[8.0.5, 8.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

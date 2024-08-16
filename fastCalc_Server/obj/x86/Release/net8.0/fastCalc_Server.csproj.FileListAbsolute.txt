@@ -1,0 +1,16 @@
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\bin\x86\Release\net8.0\fastCalc_Server.exe
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\bin\x86\Release\net8.0\fastCalc_Server.deps.json
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\bin\x86\Release\net8.0\fastCalc_Server.runtimeconfig.json
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\bin\x86\Release\net8.0\fastCalc_Server.dll
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\bin\x86\Release\net8.0\fastCalc_Server.pdb
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\obj\x86\Release\net8.0\fastCalc_Server.csproj.AssemblyReference.cache
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\obj\x86\Release\net8.0\fastCalc_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\obj\x86\Release\net8.0\fastCalc_Server.AssemblyInfoInputs.cache
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\obj\x86\Release\net8.0\fastCalc_Server.AssemblyInfo.cs
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\obj\x86\Release\net8.0\fastCalc_Server.csproj.CoreCompileInputs.cache
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\obj\x86\Release\net8.0\fastCalc_Server.csproj.Fody.CopyLocal.cache
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\obj\x86\Release\net8.0\fastCalc_Server.dll
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\obj\x86\Release\net8.0\refint\fastCalc_Server.dll
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\obj\x86\Release\net8.0\fastCalc_Server.pdb
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\obj\x86\Release\net8.0\fastCalc_Server.genruntimeconfig.cache
+C:\Users\fauza\source\repos\fastCalc\fastCalc_Server\obj\x86\Release\net8.0\ref\fastCalc_Server.dll

@@ -1,0 +1,14 @@
+C:\Users\fauza\source\repos\fastCalc\fastCalc\bin\Debug\net8.0\fastCalc_Client.exe
+C:\Users\fauza\source\repos\fastCalc\fastCalc\bin\Debug\net8.0\fastCalc_Client.deps.json
+C:\Users\fauza\source\repos\fastCalc\fastCalc\bin\Debug\net8.0\fastCalc_Client.runtimeconfig.json
+C:\Users\fauza\source\repos\fastCalc\fastCalc\bin\Debug\net8.0\fastCalc_Client.dll
+C:\Users\fauza\source\repos\fastCalc\fastCalc\bin\Debug\net8.0\fastCalc_Client.pdb
+C:\Users\fauza\source\repos\fastCalc\fastCalc\obj\Debug\net8.0\fastCalc_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauza\source\repos\fastCalc\fastCalc\obj\Debug\net8.0\fastCalc_Client.AssemblyInfoInputs.cache
+C:\Users\fauza\source\repos\fastCalc\fastCalc\obj\Debug\net8.0\fastCalc_Client.AssemblyInfo.cs
+C:\Users\fauza\source\repos\fastCalc\fastCalc\obj\Debug\net8.0\fastCalc_Client.csproj.CoreCompileInputs.cache
+C:\Users\fauza\source\repos\fastCalc\fastCalc\obj\Debug\net8.0\fastCalc_Client.dll
+C:\Users\fauza\source\repos\fastCalc\fastCalc\obj\Debug\net8.0\refint\fastCalc_Client.dll
+C:\Users\fauza\source\repos\fastCalc\fastCalc\obj\Debug\net8.0\fastCalc_Client.pdb
+C:\Users\fauza\source\repos\fastCalc\fastCalc\obj\Debug\net8.0\fastCalc_Client.genruntimeconfig.cache
+C:\Users\fauza\source\repos\fastCalc\fastCalc\obj\Debug\net8.0\ref\fastCalc_Client.dll
