@@ -88,10 +88,10 @@ Il faut d'abord lancer le serveur puis au moins 2 clients sinon ce sera de la me
 See the [open issues](https://discord.com/users/1172167256470474775) for a full list of proposed features (and known issues).
 ## Contributing
 
-English:
+### English:
 If you want to contribute, join the Palms server: [https://discord.gg/gRQZXHwMsZ](https://discord.gg/gRQZXHwMsZ)
 
-Français :
+### Français :
 Si tu veux participer à d'autres projets ou améliorer celui-ci, rejoins le serveur Discord des Palms : [https://discord.gg/gRQZXHwMsZ](https://discord.gg/gRQZXHwMsZ)
 ## Contact
 
