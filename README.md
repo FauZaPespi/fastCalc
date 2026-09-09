@@ -1,24 +1,8 @@
-
-<br/>
-<div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
-<img src="https://cdn.discordapp.com/attachments/1180334194329649212/1273971201919815791/icons8-erreur-de-calcul-64.png?ex=66c08da3&is=66bf3c23&hm=11395c847b0f2d45aafd6b67a62e0d8a18a74ff142fddc595b381ac4189309d3&" alt="Logo" width="80" height="80">
-</a>
 <h3 align="center">FastCalc</h3>
 <p align="center">
-Calculator that works with sharing
-
 <br/>
-<br/>
-<a href="https://discord.com/users/1172167256470474775">Contact me</a>  
 
-
-</p>
-</div>
-
-## About The Project
-
-![ta faim ?](https://c4.wallpaperflare.com/wallpaper/439/731/824/anime-girls-hatsune-miku-moon-night-wallpaper-preview.jpg)
+## À propos du projet
 
 #### Contexte du Projet
 Le projet consiste à développer un système client-serveur en C# permettant aux clients d'effectuer des calculs complexes. Le serveur gère la distribution des calculs aux clients disponibles, stocke les résultats des calculs dans un fichier JSON, et renvoie les résultats aux clients qui ont demandé les calculs. Les clients peuvent également signaler que certains calculs sont trop complexes à gérer et les renvoyer au serveur pour redistribution.
@@ -73,27 +57,6 @@ Le serveur redistribue ce calcul à un autre client disponible.
 ##### Gestion des Erreurs
 Déconnexion des Clients : Le serveur gère les déconnexions des clients en nettoyant les connexions fermées et en évitant les exceptions non gérées.
 Erreurs de Transmission : Les exceptions liées à la transmission des données (comme les erreurs de lecture/écriture) sont capturées et gérées.
-### Built With
-
-J'ai seulement utiliser le C#...
-
-- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
-## Usage
-
-Il faut d'abord lancer le serveur puis au moins 2 clients sinon ce sera de la merde
-## Roadmap
-
-- [x] Faire le projet
-
-See the [open issues](https://discord.com/users/1172167256470474775) for a full list of proposed features (and known issues).
-## Contributing
-
-### English:
-If you want to contribute, join the Palms server: [https://discord.gg/gRQZXHwMsZ](https://discord.gg/gRQZXHwMsZ)
-
-### Français :
-Si tu veux participer à d'autres projets ou améliorer celui-ci, rejoins le serveur Discord des Palms : [https://discord.gg/gRQZXHwMsZ](https://discord.gg/gRQZXHwMsZ)
-## Contact
 
 FauZaPespi - [@FauZaPespi](https://discord.com/users/1172167256470474775) - [https://fauza.fr](https://fauza.fr)
 
